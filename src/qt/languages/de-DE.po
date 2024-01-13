@@ -233,7 +233,7 @@ msgid "E&ject"
 msgstr "A&uswerfen"
 
 msgid "&Image..."
-msgstr "&Cartridgeimage..."
+msgstr "&CD-Image..."
 
 msgid "E&xport to 86F..."
 msgstr "&In das 86F-Format e&xportieren..."
