@@ -1,28 +1,29 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-05-29 19:36+0000\n"
-"Last-Translator: OBattler <oubattler@gmail.com>\n"
-"Language-Team: German <https://weblate.86box.net/projects/86box/86box/de/>\n"
-"Language: de-DE\n"
+"Last-Translator: Wojćech Grala <wojciechgrala84@gmail.com>\n"
+"Language-Team: Upper Sorbian -ADD TO WEBLATE- <https://weblate.86box.net/projects/86box/86box/hsb/>\n"
+"Language: hsb-DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3;\n"
 "X-Generator: Weblate 5.12.2\n"
-"X-Language: de_DE\n"
+"X-Language: hsb_DE\n"
 "X-Source-Language: en_US\n"
 
 msgid "&Action"
-msgstr "&Aktionen"
+msgstr "&Akcije"
 
 msgid "&Keyboard requires capture"
-msgstr "&Tastatur benötigt das Einfangen des Mauszeigers"
+msgstr "&Tastatura trjeba złójenja pokazowarja"
 
 msgid "&Right CTRL is left ALT"
-msgstr "&Die rechte Strg-Taste ist die linke Alt-Taste"
+msgstr "Prawy Strg je &lěwy Alt"
 
 msgid "&Hard reset"
-msgstr "&Kaltstart"
+msgstr "&Zymny start"
 
 msgid "&Ctrl+Alt+Del"
 msgstr "&Strg+Alt+Entf"
@@ -31,40 +32,40 @@ msgid "Ctrl+Alt+&Esc"
 msgstr "Strg+Alt+&Esc"
 
 msgid "&Pause"
-msgstr "&Pausieren"
+msgstr "&Přestawka"
 
 msgid "Pause"
-msgstr "Pausieren"
+msgstr "Přestawka"
 
 msgid "Re&sume"
-msgstr "&Fortsetzen"
+msgstr "&Pokročować"
 
 msgid "E&xit"
-msgstr "&Beenden"
+msgstr "S&kónčić"
 
 msgid "&View"
-msgstr "A&nsicht"
+msgstr "&Napohlad"
 
 msgid "&Hide status bar"
-msgstr "&Statusleiste ausblenden"
+msgstr "Wusćiń &statusowu lajstu"
 
 msgid "Hide &toolbar"
-msgstr "&Werkzeugleiste ausblenden"
+msgstr "Wusćiń &dźełowu lajstu"
 
 msgid "&Resizeable window"
-msgstr "G&rößenverstellbares Fenster"
+msgstr "&Wokno z přestajomnym rozměrom"
 
 msgid "R&emember size && position"
-msgstr "Größe und &Position merken"
+msgstr "&Měrkuj rozměr a poziciju"
 
 msgid "Remember size && position"
-msgstr "Größe und Position merken"
+msgstr "Měrkuj rozměr a poziciju"
 
 msgid "Re&nderer"
 msgstr "Re&nderer"
 
 msgid "&Qt (Software)"
-msgstr "&Qt (Software)"
+msgstr "&Qt (softwarowy)"
 
 msgid "Open&GL (3.0 Core)"
 msgstr "Open&GL (3.0 Core)"
@@ -73,13 +74,13 @@ msgid "&VNC"
 msgstr "&VNC"
 
 msgid "Specify &dimensions…"
-msgstr "Fenstergröße &einstellen…"
+msgstr "Nastaj &rozměr wokna…"
 
 msgid "Force &4:3 display ratio"
-msgstr "&4:3-Seitenverhältnis erzwingen"
+msgstr "Wunuzuj &poměr wobrazowki &4:3"
 
 msgid "&Window scale factor"
-msgstr "&Fensterskalierungsfaktor"
+msgstr "&Faktor skali wokna"
 
 msgid "&0.5x"
 msgstr "&0,5x"
@@ -88,7 +89,7 @@ msgid "&1x"
 msgstr "&1x"
 
 msgid "1.&5x"
-msgstr "1,&5x"
+msgstr "1&,5x"
 
 msgid "&2x"
 msgstr "&2x"
@@ -112,7 +113,7 @@ msgid "&8x"
 msgstr "&8x"
 
 msgid "Fi&lter method"
-msgstr "Filterungsmet&hode"
+msgstr "M&etoda filtrowanja"
 
 msgid "&Nearest"
 msgstr "&Nächster Nachbar"
