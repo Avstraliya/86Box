@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-23 14:27+0200\n"
+"PO-Revision-Date: 2026-06-23 22:31+0200\n"
 "Last-Translator: Wojćech Grala <wojciechgrala84@gmail.com>\n"
 "Language-Team: Upper Sorbian <https://weblate.86box.net/projects/86box/86box/hsb/>\n"
 "Language: hsb-DE\n"
@@ -251,97 +251,97 @@ msgid "&About 86Box…"
 msgstr "&Wo 86Box…"
 
 msgid "&New image…"
-msgstr "&Neues Abbild…"
+msgstr "&Nowy wobraz…"
 
 msgid "&Existing image…"
-msgstr "&Bestehendes Abbild…"
+msgstr "&Wobstaty wobraz…"
 
 msgid "Existing image (&Write-protected)…"
-msgstr "Bestehendes Abbild (&schreibgeschützt)…"
+msgstr "W&obstaty wobraz (pisanski škit)…"
 
 msgid "&Record"
-msgstr "&Aufnehmen"
+msgstr "Na&hraj"
 
 msgid "&Play"
-msgstr "&Abspielen"
+msgstr "Wo&thraj"
 
 msgid "&Rewind to the beginning"
-msgstr "&An den Anfang zurückspulen"
+msgstr "Nawij na s&počatk"
 
 msgid "&Fast forward to the end"
-msgstr "&An das Ende vorspulen"
+msgstr "Nawij na &kónc"
 
 msgid "E&ject"
-msgstr "A&uswerfen"
+msgstr "Wu&storč"
 
 msgid "&Image…"
-msgstr "&Abbild…"
+msgstr "&Wobraz…"
 
 msgid "E&xport to 86F…"
-msgstr "&In das 86F-Format e&xportieren…"
+msgstr "&Eksportuj na 86F…"
 
 msgid "&Mute"
-msgstr "&Stummschalten"
+msgstr "&Zněm"
 
 msgid "E&mpty"
-msgstr "L&eer"
+msgstr "&Prózdny"
 
 msgid "Reload previous image"
-msgstr "Voriges Abbild neu laden"
+msgstr "Z&nowa nakładź posledni obraz"
 
 msgid "&Folder…"
-msgstr "&Verzeichnis…"
+msgstr "&Rjadowka…"
 
 msgid "Preferences"
-msgstr "Preferenzen"
+msgstr "Preferency"
 
 msgid "Sound Gain"
-msgstr "Klangverstärkung"
+msgstr "Zesylnjenje zwuka"
 
 msgid "New Image"
-msgstr "Neues Abbild"
+msgstr "Nowy wobraz"
 
 msgid "Settings"
-msgstr "Einstellungen"
+msgstr "Nastajenja"
 
 msgid "Specify Main Window Dimensions"
-msgstr "Fenstergröße einstellen"
+msgstr "Nastaj rozměr wokna"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "Cancel"
-msgstr "Abbrechen"
+msgstr "Přetorhń"
 
 msgid "&Default"
 msgstr "&Standard"
 
 msgid "Language:"
-msgstr "Sprache:"
+msgstr "Rěč:"
 
 msgid "Gain"
-msgstr "Verstärkung"
+msgstr "Zesylnjenje"
 
 msgid "File name:"
-msgstr "Dateiname:"
+msgstr "Mjeno dataje:"
 
 msgid "Disk size:"
-msgstr "Datenträgergröße:"
+msgstr "Rozměr nošerja:"
 
 msgid "RPM mode:"
-msgstr "Drehzahlmodus:"
+msgstr "Modus ličby wjertow:"
 
 msgid "Progress:"
-msgstr "Fortschritt:"
+msgstr "Postup:"
 
 msgid "Width:"
-msgstr "Breite:"
+msgstr "Šěrokosć:"
 
 msgid "Height:"
-msgstr "Höhe:"
+msgstr "Wysokosć:"
 
 msgid "Lock to this size"
-msgstr "Feste Größe"
+msgstr "Wěsty rozměr"
 
 msgid "General"
 msgstr "Allgemeines"
