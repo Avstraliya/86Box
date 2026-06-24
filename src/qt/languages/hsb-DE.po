@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-23 22:31+0200\n"
+"PO-Revision-Date: 2026-06-24 23:02+0200\n"
 "Last-Translator: Wojćech Grala <wojciechgrala84@gmail.com>\n"
 "Language-Team: Upper Sorbian <https://weblate.86box.net/projects/86box/86box/hsb/>\n"
 "Language: hsb-DE\n"
@@ -182,7 +182,7 @@ msgid "Overscan"
 msgstr "Overscan"
 
 msgid "Change contrast for monochrome display"
-msgstr "Změń kontrast za monochromneje wobrazowki"
+msgstr "Změń kontrast dla monochromneje wobrazowki"
 
 msgid "&Media"
 msgstr "&Medije"
@@ -344,22 +344,22 @@ msgid "Lock to this size"
 msgstr "Wěsty rozměr"
 
 msgid "General"
-msgstr "Allgemeines"
+msgstr "Powšitkowne"
 
 msgid "Processor"
-msgstr "Prozessor"
+msgstr "Procesor"
 
 msgid "Performance"
-msgstr "Leistung"
+msgstr "Wukonliwosć"
 
 msgid "Machine type:"
-msgstr "Systemtyp:"
+msgstr "Typ systema:"
 
 msgid "[1989] i486 (Socket 168 and 1)"
-msgstr "[1989] i486 (Socket 168 und 1)"
+msgstr "[1989] i486 (Socket 168 a 1)"
 
 msgid "[1994] i486 (Miscellaneous)"
-msgstr "[1994] i486 (Verschiedenes)"
+msgstr "[1994] i486 (wšelčizny)"
 
 msgid "[1995] Socket 7 (Single Voltage)"
 msgstr "[1995] Socket 7 (Einfache Spannung)"
@@ -368,136 +368,136 @@ msgid "[1996] Socket 7 (Dual Voltage)"
 msgstr "[1996] Socket 7 (Dual-Spannung)"
 
 msgid "Miscellaneous"
-msgstr "Verschiedenes"
+msgstr "Wšelčizny"
 
 msgid "Machine:"
 msgstr "System:"
 
 msgid "Configure"
-msgstr "Konfigurieren"
+msgstr "Konfiguruj"
 
 msgid "CPU:"
-msgstr "Prozessor:"
+msgstr "Procesor:"
 
 msgid "CPU type:"
-msgstr "Prozessor-Typ:"
+msgstr "Typ procesora:"
 
 msgid "Speed:"
-msgstr "Geschwindigkeit:"
+msgstr "Spěšnosć:"
 
 msgid "Frequency:"
-msgstr "Frequenz:"
+msgstr "Frekwenca:"
 
 msgid "%1 MHz"
 msgstr "%1 MHz"
 
 msgid "FPU:"
-msgstr "FPU-Einheit:"
+msgstr "Jednotka FPU:"
 
 msgid "Internal"
-msgstr "Integriert"
+msgstr "Integrowana"
 
 msgid "Wait states:"
-msgstr "Wartezustände:"
+msgstr "Stawy čakanja:"
 
 msgid "MB"
 msgstr "MB"
 
 msgid "Memory:"
-msgstr "Hauptspeicher:"
+msgstr "Skład:"
 
 msgid "Time synchronization"
-msgstr "Zeitsynchronisierung"
+msgstr "Synchronizacija časa"
 
 msgid "Disabled"
-msgstr "Ohne"
+msgstr "Wupinjena"
 
 msgid "Enabled (local time)"
-msgstr "Eingeschaltet (Lokale Uhrzeit)"
+msgstr "Zapinjena (lokalny čas)"
 
 msgid "Enabled (UTC)"
-msgstr "Eingeschaltet (UTC)"
+msgstr "Zapinjena (UTC)"
 
 msgid "Use the 486 interpreter for 286 and 386 processors"
-msgstr "Verwende den 486-Interpreter für 286- und 386-Prozessoren"
+msgstr "Wužij interpretera 486 dla procesorow 286 a 386"
 
 msgid "Dynamic Recompiler"
-msgstr "Dynamischer Recompiler"
+msgstr "Dynamiski rekompajler"
 
 msgid "CPU frame size"
-msgstr "CPU-Framegröße"
+msgstr "Rozměr ramika CPU"
 
 msgid "Larger frames (less smooth)"
-msgstr "Größere Frames (weniger flüssig)"
+msgstr "Wjetše ramiki (mjenje hładko)"
 
 msgid "Smaller frames (smoother)"
-msgstr "Kleinere Frames (flüssiger)"
+msgstr "Mjeńše ramiki (hładšo)"
 
 msgid "Video:"
-msgstr "Grafikkarte:"
+msgstr "Widejo:"
 
 msgid "Video #2:"
-msgstr "Grafikkarte 2:"
+msgstr "Widejo 2:"
 
 msgid "Monitor"
 msgstr "Monitor"
 
 msgid "Voodoo 1 or 2 Graphics"
-msgstr "Voodoo 1 oder 2 Grafik"
+msgstr "Grafika Voodoo 1 abo 2"
 
 msgid "IBM 8514/A Graphics"
-msgstr "IBM 8514/A-Grafik"
+msgstr "Grafika IBM 8514/A"
 
 msgid "XGA Graphics"
-msgstr "XGA-Grafik"
+msgstr "Grafika XGA"
 
 msgid "IBM PS/55 Display Adapter Graphics"
-msgstr "IBM PS/55 Grafik-Adapter"
+msgstr "Grafika adaptera IBM PS/55"
 
 msgid "Voodoo:"
 msgstr "Voodoo:"
 
 msgid "Keyboard:"
-msgstr "Tastatur:"
+msgstr "Tastatura:"
 
 msgid "Keyboard"
-msgstr "Tastatur"
+msgstr "Tastatura"
 
 msgid "Mouse:"
-msgstr "Maus:"
+msgstr "Myška:"
 
 msgid "Mouse"
-msgstr "Maus"
+msgstr "Myška"
 
 msgid "Joystick:"
-msgstr "Joystick:"
+msgstr "Wodźidło:"
 
 msgid "Joystick"
-msgstr "Joystick"
+msgstr "Wodźidło"
 
 msgid "Joystick 1…"
-msgstr "Joystick 1…"
+msgstr "Wodźidło 1…"
 
 msgid "Joystick 2…"
-msgstr "Joystick 2…"
+msgstr "Wodźidło 2…"
 
 msgid "Joystick 3…"
-msgstr "Joystick 3…"
+msgstr "Wodźidło 3…"
 
 msgid "Joystick 4…"
-msgstr "Joystick 4…"
+msgstr "Wodźidło 4…"
 
 msgid "Sound card 1:"
-msgstr "Soundkarte 1:"
+msgstr "Zwukowa karta 1:"
 
 msgid "Sound card 2:"
-msgstr "Soundkarte 2:"
+msgstr "Zwukowa karta 2:"
 
 msgid "Sound card 3:"
-msgstr "Soundkarte 3:"
+msgstr "Zwukowa karta 3:"
 
 msgid "Sound card 4:"
-msgstr "Soundkarte 4:"
+msgstr "Zwukowa karta 4:"
 
 msgid "MIDI Out Device:"
 msgstr "MIDI Ausgabegerät:"
