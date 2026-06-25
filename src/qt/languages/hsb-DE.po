@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-24 23:02+0200\n"
+"PO-Revision-Date: 2026-06-25 17:09+0200\n"
 "Last-Translator: Wojćech Grala <wojciechgrala84@gmail.com>\n"
 "Language-Team: Upper Sorbian <https://weblate.86box.net/projects/86box/86box/hsb/>\n"
 "Language: hsb-DE\n"
@@ -122,7 +122,7 @@ msgid "&Linear"
 msgstr "&Linearna"
 
 msgid "Hi&DPI scaling"
-msgstr "Skalowanje Hi&DPI"
+msgstr "Hi&DPI-skalowanje"
 
 msgid "&Fullscreen"
 msgstr "Połna &obrazowka"
@@ -146,10 +146,10 @@ msgid "4:&3 Integer scale"
 msgstr "Integerne skalowanje 4:&3"
 
 msgid "Inverted VGA monitor"
-msgstr "Inwertěrowany monitor VGA"
+msgstr "Inwertěrowany VGA-monitor"
 
 msgid "VGA screen type:"
-msgstr "Typ obrazowki VGA:"
+msgstr "Typ VGA-obrazowki:"
 
 msgid "RGB Color"
 msgstr "Barbite RGB"
@@ -161,7 +161,7 @@ msgid "RGB Grayscale"
 msgstr "Čorno-běłe RGB"
 
 msgid "Generic RGBI color monitor"
-msgstr "Generiski barbity monitor RGBI"
+msgstr "Generiski barbity RGBI-monitor"
 
 msgid "Amber monitor"
 msgstr "Jantarowy monitor"
@@ -278,7 +278,7 @@ msgid "&Image…"
 msgstr "&Wobraz…"
 
 msgid "E&xport to 86F…"
-msgstr "&Eksportuj na 86F…"
+msgstr "&Eksportuj na format 86F…"
 
 msgid "&Mute"
 msgstr "&Zněm"
@@ -362,10 +362,10 @@ msgid "[1994] i486 (Miscellaneous)"
 msgstr "[1994] i486 (wšelčizny)"
 
 msgid "[1995] Socket 7 (Single Voltage)"
-msgstr "[1995] Socket 7 (Einfache Spannung)"
+msgstr "[1995] Socket 7 (jednore napjeće)"
 
 msgid "[1996] Socket 7 (Dual Voltage)"
-msgstr "[1996] Socket 7 (Dual-Spannung)"
+msgstr "[1996] Socket 7 (dwójne napjeće)"
 
 msgid "Miscellaneous"
 msgstr "Wšelčizny"
@@ -392,7 +392,7 @@ msgid "%1 MHz"
 msgstr "%1 MHz"
 
 msgid "FPU:"
-msgstr "Jednotka FPU:"
+msgstr "FPU-jednotka:"
 
 msgid "Internal"
 msgstr "Integrowana"
@@ -419,7 +419,7 @@ msgid "Enabled (UTC)"
 msgstr "Zapinjena (UTC)"
 
 msgid "Use the 486 interpreter for 286 and 386 processors"
-msgstr "Wužij interpretera 486 dla procesorow 286 a 386"
+msgstr "Wužij 486-interpretera dla procesorow 286 a 386"
 
 msgid "Dynamic Recompiler"
 msgstr "Dynamiski rekompajler"
@@ -500,121 +500,121 @@ msgid "Sound card 4:"
 msgstr "Zwukowa karta 4:"
 
 msgid "MIDI Out Device:"
-msgstr "MIDI Ausgabegerät:"
+msgstr "Nastroj wudaća MIDI:"
 
 msgid "MIDI In Device:"
-msgstr "MIDI Eingabegerät:"
+msgstr "Nastroj zapodaća MIDI:"
 
 msgid "MIDI Out:"
-msgstr "MIDI Ausgang:"
+msgstr "Wudaće MIDI:"
 
 msgid "Standalone MPU-401"
-msgstr "Eigenständiges-MPU-401-Gerät"
+msgstr "Samostatny MPU-401"
 
 msgid "Use FLOAT32 sound"
-msgstr "FLOAT32-Wiedergabe benutzen"
+msgstr "Wužij reprodukcije FLOAT32"
 
 msgid "FM synth driver:"
-msgstr "FM-Synth-Treiber:"
+msgstr "Pohonjer syntezy FM:"
 
 msgid "Nuked (more accurate)"
-msgstr "Nuked (genauer)"
+msgstr "Nuked (dokładniši)"
 
 msgid "YMFM (faster)"
-msgstr "YMFM (schneller)"
+msgstr "YMFM (spěšniši)"
 
 msgid "Internal LPT ECP DMA:"
-msgstr "DMA des ECP des internen Parallelports:"
+msgstr "DMA ECP internych paralelnych portow:"
 
 msgid "Floppy disk controller:"
-msgstr "Disketten-Controller:"
+msgstr "Kontroler disketow:"
 
 msgid "CD-ROM controller:"
-msgstr "CD-ROM-Controller:"
+msgstr "CD-ROM-kontroler:"
 
 msgid "Mitsumi interface"
-msgstr "Mitsumi-Schnittstelle"
+msgstr "Mitsumi-tykačka"
 
 msgid "MKE/Panasonic interface"
-msgstr "MKE/Panasonic-Schnittstelle"
+msgstr "MKE/Panasonic-tykačka"
 
 msgid "MKE/Panasonic interface (Creative)"
-msgstr "MKE/Panasonic-Schnittstelle (Creative)"
+msgstr "MKE/Panasonic-tykačka (Creative)"
 
 msgid "IDE Controller"
-msgstr "IDE-Controller"
+msgstr "IDE-kontroler"
 
 msgid "IDE Controller (Dual-Channel)"
-msgstr "IDE-Controller (zweikanalig)"
+msgstr "IDE-kontroler (dwukanalowa)"
 
 msgid "PC/AT IDE Controller"
-msgstr "PC/AT IDE-Controller"
+msgstr "PC/AT IDE-kontroler"
 
 msgid "PC/AT IDE Controller (Dual-Channel)"
-msgstr "PC/AT IDE-Controller (zweikanalig)"
+msgstr "PC/AT IDE-kontroler (dwukanalowy)"
 
 msgid "PC/AT XTIDE (Primary Only)"
-msgstr "PC/AT XTIDE (nur primär)"
+msgstr "PC/AT XTIDE (jeno primarny)"
 
 msgid "PS/2 AT XTIDE (1.1.5) (Primary Only)"
-msgstr "PS/2 AT XTIDE (1.1.5) (nur primär)"
+msgstr "PS/2 AT XTIDE (1.1.5) (jeno primarny)"
 
 msgid "CMD PCI-0646 (Tertiary and Quaternary)"
-msgstr "CMD PCI-0646 (Tertiär- und Quartärkanal)"
+msgstr "CMD PCI-0646 (třećorjadny a štyrorjadny)"
 
 msgid "CMD PCI-0648 (Tertiary and Quaternary)"
-msgstr "CMD PCI-0648 (Tertiär- und Quartärkanal)"
+msgstr "CMD PCI-0648 (třećorjadny a štyrorjadny)"
 
 msgid "CMD PCI-0649 (Tertiary and Quaternary)"
-msgstr "CMD PCI-0649 (Tertiär- und Quartärkanal)"
+msgstr "CMD PCI-0649 (třećorjadny a štyrorjadny)"
 
 msgid "McIDE Controller"
-msgstr "McIDE-Controller"
+msgstr "McIDE-kontroler"
 
 msgid "Tertiary IDE Controller"
-msgstr "Tertiärer IDE-Controller"
+msgstr "Třećorjadny IDE-kontroler"
 
 msgid "Quaternary IDE Controller"
-msgstr "Quartärer IDE-Controller"
+msgstr "Štyrorjadny IDE-kontroler"
 
 msgid "Hard disk controllers"
-msgstr "Festplattencontroller"
+msgstr "Kontrolery krutych tačelow"
 
 msgid "SCSI controllers"
-msgstr "SCSI-Controller"
+msgstr "SCSI-kontrolery"
 
 msgid "Controller 1:"
-msgstr "Controller 1:"
+msgstr "Kontroler 1:"
 
 msgid "Controller 2:"
-msgstr "Controller 2:"
+msgstr "Kontroler 2:"
 
 msgid "Controller 3:"
-msgstr "Controller 3:"
+msgstr "Kontroler 3:"
 
 msgid "Controller 4:"
-msgstr "Controller 4:"
+msgstr "Kontroler 4:"
 
 msgid "Cassette"
-msgstr "Kassette"
+msgstr "Kaseta"
 
 msgid "Hard disks:"
-msgstr "Festplatten:"
+msgstr "Krute tačele:"
 
 msgid "Firmware Version"
-msgstr "Firmware-Version"
+msgstr "Firmware-wersija"
 
 msgid "DSP Version"
-msgstr "DSP-Version"
+msgstr "DSP-wersija"
 
 msgid "&New…"
-msgstr "&Neu…"
+msgstr "&Nowy…"
 
 msgid "&Existing…"
-msgstr "&Vorhanden…"
+msgstr "&Wobstejacy…"
 
 msgid "&Remove"
-msgstr "&Entfernen"
+msgstr "W&otstroń"
 
 msgid "Bus:"
 msgstr "Bus:"
@@ -626,64 +626,64 @@ msgid "ID:"
 msgstr "ID:"
 
 msgid "Sectors:"
-msgstr "Sektoren:"
+msgstr "Sektory:"
 
 msgid "Heads:"
-msgstr "Köpfe:"
+msgstr "Hłowy:"
 
 msgid "Cylinders:"
-msgstr "Zylinder:"
+msgstr "Cylindry:"
 
 msgid "Size (MB):"
-msgstr "Größe (MB):"
+msgstr "Rozměr (MB):"
 
 msgid "Type:"
 msgstr "Typ:"
 
 msgid "Image Format:"
-msgstr "Abbildformat:"
+msgstr "Format wobrazu:"
 
 msgid "Block Size:"
-msgstr "Blockgröße:"
+msgstr "Rozměr bloka:"
 
 msgid "Floppy drives"
-msgstr "Diskettenlaufwerke"
+msgstr "Wothrawaki disketow"
 
 msgid "5.25\" 180k"
-msgstr "5,25-Zoll 180k"
+msgstr "5,25\" 180k"
 
 msgid "5.25\" 360k"
-msgstr "5,25-Zoll 360k"
+msgstr "5,25\" 360k"
 
 msgid "5.25\" 720k"
-msgstr "5,25-Zoll 720k"
+msgstr "5,25\" 720k"
 
 msgid "5.25\" 1.2M"
-msgstr "5,25-Zoll 1,2M"
+msgstr "5,25\" 1,2M"
 
 msgid "5.25\" 1.2M 300/360 RPM"
-msgstr "5,25-Zoll 1,2M 300/360 RPM"
+msgstr "5,25\" 1,2M 300/360 RPM"
 
 msgid "3.5\" 360k"
-msgstr "3,5-Zoll 360k"
+msgstr "3,5\" 360k"
 
 msgid "3.5\" 720k"
-msgstr "3,5-Zoll 720k"
+msgstr "3,5\" 720k"
 
 msgid "3.5\" 1.44M"
-msgstr "3,5-Zoll 1,44M"
+msgstr "3,5\" 1,44M"
 
 msgid "3.5\" 1.25M PC-98"
-msgstr "3,5-Zoll 1,25M PC-98"
+msgstr "3,5\" 1,25M PC-98"
 
 msgid "3.5\" 1.44M 300/360 RPM"
-msgstr "3,5-Zoll 1,44M 300/360 RPM"
+msgstr "3,5\" 1,44M 300/360 RPM"
 
 msgid "3.5\" 2.88M"
-msgstr "3,5-Zoll 2,88M"
+msgstr "3,5\" 2,88M"
 
 msgid "3.5\" 2.88M 300/360 RPM"
-msgstr "3,5-Zoll 2,88M 300/360 RPM"
+msgstr "3,5\" 2,88M 300/360 RPM"
 
 msgid "Turbo timings"
 msgstr "Turbo-Timings"
