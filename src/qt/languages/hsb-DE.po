@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-25 17:09+0200\n"
+"PO-Revision-Date: 2026-06-26 20:05+0200\n"
 "Last-Translator: Wojćech Grala <wojciechgrala84@gmail.com>\n"
 "Language-Team: Upper Sorbian <https://weblate.86box.net/projects/86box/86box/hsb/>\n"
 "Language: hsb-DE\n"
@@ -188,7 +188,7 @@ msgid "&Media"
 msgstr "&Medije"
 
 msgid "&Tools"
-msgstr "Na&stroje"
+msgstr "&Graty"
 
 msgid "&Settings…"
 msgstr "&Nastajenja…"
@@ -290,7 +290,7 @@ msgid "Reload previous image"
 msgstr "Z&nowa nakładź posledni obraz"
 
 msgid "&Folder…"
-msgstr "&Rjadowka…"
+msgstr "&Rjadowak…"
 
 msgid "Preferences"
 msgstr "Preferency"
@@ -326,7 +326,7 @@ msgid "File name:"
 msgstr "Mjeno dataje:"
 
 msgid "Disk size:"
-msgstr "Rozměr nošerja:"
+msgstr "Rozměr nošerja datow:"
 
 msgid "RPM mode:"
 msgstr "Modus ličby wjertow:"
@@ -686,139 +686,139 @@ msgid "3.5\" 2.88M 300/360 RPM"
 msgstr "3,5\" 2,88M 300/360 RPM"
 
 msgid "Turbo timings"
-msgstr "Turbo-Timings"
+msgstr "Turbo timingi"
 
 msgid "Check BPB"
-msgstr "BPB überprüfen"
+msgstr "Přepruwuj BPB"
 
 msgid "CD-ROM drives"
-msgstr "CD-ROM-Laufwerke"
+msgstr "CD-ROM-wothrawaki"
 
 msgid "CD-ROM:"
 msgstr "CD-ROM:"
 
 msgid "MO drives"
-msgstr "MO-Laufwerke"
+msgstr "MO-wothrawaki"
 
 msgid "MO:"
 msgstr "MO:"
 
 msgid "Removable disk drives"
-msgstr "Wechseldatenträger"
+msgstr "Měnjate wothrawaki"
 
 msgid "Removable disks:"
-msgstr "Wechseldatenträger:"
+msgstr "Měnjate nošerjo datow:"
 
 msgid "Tape drives"
-msgstr "Bandlaufwerke"
+msgstr "Wothrawaki paskow"
 
 msgid "Tape drives:"
-msgstr "Bandlaufwerke:"
+msgstr "Wothrawaki paskow:"
 
 msgid "ISA RTC:"
-msgstr "ISA-Echtzeituhr:"
+msgstr "ISA-RTC:"
 
 msgid "ISA Memory Expansion"
-msgstr "ISA-Speichererweiterung"
+msgstr "ISA-rozšěrjenje składa"
 
 msgid "ISA ROM Cards"
-msgstr "ISA-ROM-Karte"
+msgstr "ISA-ROM-karty"
 
 msgid "Card 1:"
-msgstr "Steckkarte 1:"
+msgstr "Karta 1:"
 
 msgid "Card 2:"
-msgstr "Steckkarte 2:"
+msgstr "Karta 2:"
 
 msgid "Card 3:"
-msgstr "Steckkarte 3:"
+msgstr "Karta 3:"
 
 msgid "Card 4:"
-msgstr "Steckkarte 4:"
+msgstr "Karta 4:"
 
 msgid "Generic ISA ROM Board"
-msgstr "Generische ISA-ROM-Platine"
+msgstr "Generiska ISA-ROM-platina"
 
 msgid "Generic Dual ISA ROM Board"
-msgstr "Generische Dual-ISA-ROM-Platine"
+msgstr "Generiska dwójna ISA-ROM-platina"
 
 msgid "Generic Quad ISA ROM Board"
-msgstr "Generische Quad-ISA-ROM-Platine"
+msgstr "Generiska štwora ISA-ROM-platina"
 
 msgid "ISABugger device"
-msgstr "ISABugger-Gerät"
+msgstr "ISABugger-nastroj"
 
 msgid "POST card"
-msgstr "POST-Code-Karte"
+msgstr "POST-karta"
 
 msgid "Error"
-msgstr "Fehler"
+msgstr "Zmylk"
 
 msgid "Fatal error"
-msgstr "Fataler Fehler"
+msgstr "Fatalny zmylk"
 
 msgid " - PAUSED"
-msgstr " - PAUSIERT"
+msgstr " - PŘESTAWKA"
 
 msgid "Speed"
-msgstr "Geschwindigkeit"
+msgstr "Spěšnosć"
 
 msgid "Removable disk %1 (%2): %3"
-msgstr "Wechseldatenträger %1 (%2): %3"
+msgstr "Měnjate nošerjo datow %1 (%2): %3"
 
 msgid "&Removable disk %1 (%2): %3"
-msgstr "&Wechseldatenträger %1 (%2): %3"
+msgstr "&Měnjate nošerjo datow %1 (%2): %3"
 
 msgid "Removable disk images"
-msgstr "Wechseldatenträgerabbilder"
+msgstr "Wobrazy měnjatych nošerjow datow"
 
 msgid "Tape %1 (%2): %3"
-msgstr "Band %1 (%2): %3"
+msgstr "Pask %1 (%2): %3"
 
 msgid "&Tape %1 (%2): %3"
-msgstr "&Band %1 (%2): %3"
+msgstr "&Pask %1 (%2): %3"
 
 msgid "Tape images"
-msgstr "Bandabbilder"
+msgstr "Wobrazy paskow"
 
 msgid "Image %1"
-msgstr "Abbild %1"
+msgstr "Wobraz %1"
 
 msgid "%1 could not find any usable ROM images.\n\nPlease <a href=\"%2\">download</a> a ROM set and extract it into the \"roms\" directory."
-msgstr "%1 konnte keine nutzbaren ROM-Dateien finden.\n\nBitte besuchen Sie <a href=\"%2\">die Download-Seite</a>, laden ein ROM-Set herunter und extrahieren es in das \"roms\"-Verzeichnis."
+msgstr "%1 njemóhł namakać wužiwajomnych ROM-wobrazow.\n\n<a href=\"%2\">Sćahnij</a> ROM-set a ekstrahuj jeho w \"roms\"-rjadowaku."
 
 msgid "(empty)"
-msgstr "(leer)"
+msgstr "(prózdny)"
 
 msgid "All files"
-msgstr "Alle Dateien"
+msgstr "Wša dataje"
 
 msgid "Turbo"
 msgstr "Turbo"
 
 msgid "On"
-msgstr "Ein"
+msgstr "Zapnjeny"
 
 msgid "Off"
-msgstr "Aus"
+msgstr "Wypnjeny"
 
 msgid "All images"
-msgstr "Alle Abbilder"
+msgstr "Wšón wobrazy"
 
 msgid "Basic sector images"
 msgstr "Basissektorabbilder"
 
 msgid "Surface images"
-msgstr "Oberflächenabbilder"
+msgstr "Bazowe powjerchowe wobrazy"
 
 msgid "Machine \"%s\" is not available due to missing ROMs in the roms/machines directory. Switching to an available machine."
-msgstr "Das System \"%s\" ist aufgrund von fehlenden ROMs im Verzeichnis roms/machines nicht verfügbar. Es wird auf ein verfügbares System gewechselt."
+msgstr "System \"%s\" je njewužiwajomny dla falowacych ROM-wobrazów w rjadowaku roms/machines. Přeměnjenje na wužiwajomny system."
 
 msgid "Video card \"%s\" is not available due to missing ROMs in the roms/video directory. Switching to an available video card."
-msgstr "Die Videokarte \"%s\" ist aufgrund von fehlenden ROMs im Verzeichnis roms/video nicht verfügbar. Es wird auf eine verfügbare Videokarte gewechselt."
+msgstr "Widejo-karta \"%s\" je njewužiwajomna dla falowacych ROM-wobrazów w rjadowaku roms/machines. Přeměnjenje na wužiwajomnu widejo-kartu."
 
 msgid "Device \"%s\" is not available due to missing ROMs. Ignoring the device."
-msgstr "Das Gerät \"%s\" ist aufgrund von fehlenden ROMs nicht verfügbar. Es wird ignoriert."
+msgstr "Nastroj \"%s\" je njewužiwajomny dla falowacych ROM-wobrazów. Nastał zignorowany."
 
 msgid "Machine"
 msgstr "System"
