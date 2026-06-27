@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-26 20:05+0200\n"
+"PO-Revision-Date: 2026-06-27 21:27+0200\n"
 "Last-Translator: Wojćech Grala <wojciechgrala84@gmail.com>\n"
 "Language-Team: Upper Sorbian <https://weblate.86box.net/projects/86box/86box/hsb/>\n"
 "Language: hsb-DE\n"
@@ -326,7 +326,7 @@ msgid "File name:"
 msgstr "Mjeno dataje:"
 
 msgid "Disk size:"
-msgstr "Rozměr nošerja datow:"
+msgstr "Rozměr nošaka datow:"
 
 msgid "RPM mode:"
 msgstr "Modus ličby wjertow:"
@@ -470,22 +470,22 @@ msgid "Mouse"
 msgstr "Myška"
 
 msgid "Joystick:"
-msgstr "Wodźidło:"
+msgstr "Joystick:"
 
 msgid "Joystick"
-msgstr "Wodźidło"
+msgstr "Joystick"
 
 msgid "Joystick 1…"
-msgstr "Wodźidło 1…"
+msgstr "Joystick 1…"
 
 msgid "Joystick 2…"
-msgstr "Wodźidło 2…"
+msgstr "Joystick 2…"
 
 msgid "Joystick 3…"
-msgstr "Wodźidło 3…"
+msgstr "Joystick 3…"
 
 msgid "Joystick 4…"
-msgstr "Wodźidło 4…"
+msgstr "Joystick 4…"
 
 msgid "Sound card 1:"
 msgstr "Zwukowa karta 1:"
@@ -527,7 +527,7 @@ msgid "Internal LPT ECP DMA:"
 msgstr "DMA ECP internych paralelnych portow:"
 
 msgid "Floppy disk controller:"
-msgstr "Kontroler disketow:"
+msgstr "Disketowy kontroler:"
 
 msgid "CD-ROM controller:"
 msgstr "CD-ROM-kontroler:"
@@ -647,7 +647,7 @@ msgid "Block Size:"
 msgstr "Rozměr bloka:"
 
 msgid "Floppy drives"
-msgstr "Wothrawaki disketow"
+msgstr "Disketowe wothrawaki"
 
 msgid "5.25\" 180k"
 msgstr "5,25\" 180k"
@@ -707,13 +707,13 @@ msgid "Removable disk drives"
 msgstr "Měnjate wothrawaki"
 
 msgid "Removable disks:"
-msgstr "Měnjate nošerjo datow:"
+msgstr "Měnjate nošaki datow:"
 
 msgid "Tape drives"
-msgstr "Wothrawaki paskow"
+msgstr "Paskowe wothrawaki"
 
 msgid "Tape drives:"
-msgstr "Wothrawaki paskow:"
+msgstr "Paskowe wothrawaki:"
 
 msgid "ISA RTC:"
 msgstr "ISA-RTC:"
@@ -764,13 +764,13 @@ msgid "Speed"
 msgstr "Spěšnosć"
 
 msgid "Removable disk %1 (%2): %3"
-msgstr "Měnjate nošerjo datow %1 (%2): %3"
+msgstr "Měnjate nošaki datow %1 (%2): %3"
 
 msgid "&Removable disk %1 (%2): %3"
-msgstr "&Měnjate nošerjo datow %1 (%2): %3"
+msgstr "&Měnjate nošaki datow %1 (%2): %3"
 
 msgid "Removable disk images"
-msgstr "Wobrazy měnjatych nošerjow datow"
+msgstr "Wobrazy měnjatych nošakow datow"
 
 msgid "Tape %1 (%2): %3"
 msgstr "Pask %1 (%2): %3"
@@ -818,34 +818,34 @@ msgid "Video card \"%s\" is not available due to missing ROMs in the roms/video 
 msgstr "Widejo-karta \"%s\" je njewužiwajomna dla falowacych ROM-wobrazów w rjadowaku roms/machines. Přeměnjenje na wužiwajomnu widejo-kartu."
 
 msgid "Device \"%s\" is not available due to missing ROMs. Ignoring the device."
-msgstr "Nastroj \"%s\" je njewužiwajomny dla falowacych ROM-wobrazów. Nastał zignorowany."
+msgstr "Nastroj \"%s\" je njewužiwajomny dla falowacych ROM-wobrazów. Nastroj zignorowany."
 
 msgid "Machine"
 msgstr "System"
 
 msgid "Display"
-msgstr "Anzeige"
+msgstr "Wobrazowka"
 
 msgid "Input devices"
-msgstr "Eingabegeräte"
+msgstr "Zapodawanske nastroje"
 
 msgid "Sound"
-msgstr "Ton"
+msgstr "Zwuk"
 
 msgid "Network"
-msgstr "Netzwerk"
+msgstr "Syć"
 
 msgid "Ports (COM & LPT)"
-msgstr "Anschlüsse (COM + LPT)"
+msgstr "Přizamki (COM a LPT)"
 
 msgid "Ports"
-msgstr "Anschlüsse"
+msgstr "Přizamki"
 
 msgid "Serial ports"
-msgstr "Serielle Anschlüsse"
+msgstr "Serielne přizamki"
 
 msgid "Serial ports:"
-msgstr "Serielle Anschlüsse:"
+msgstr "Serielne přizamki:"
 
 msgid "COM1:"
 msgstr "COM1:"
@@ -860,10 +860,10 @@ msgid "COM4:"
 msgstr "COM4:"
 
 msgid "Parallel ports"
-msgstr "Parallele Anschlüsse"
+msgstr "Paralelne přizamki"
 
 msgid "Parallel ports:"
-msgstr "Parallele Anschlüsse:"
+msgstr "Paralelne přizamki:"
 
 msgid "LPT1:"
 msgstr "LPT1:"
@@ -878,153 +878,155 @@ msgid "LPT4:"
 msgstr "LPT4:"
 
 msgid "Storage controllers"
-msgstr "Speichercontroller"
+msgstr "Kontrolery składu"
 
 msgid "Hard disks"
-msgstr "Festplatten"
+msgstr "Krute tačele"
 
 msgid "Disks:"
-msgstr "Festplatten:"
+msgstr "Nošaki datow:"
 
 msgid "Floppy:"
-msgstr "Diskette:"
+msgstr "Diskety:"
 
 msgid "Controllers:"
-msgstr "Controller:"
+msgstr "Controllery:"
 
 msgid "Floppy & CD-ROM drives"
-msgstr "Disketten- & CD-ROM-Laufwerke"
+msgstr "Disketowe a CD-ROM-wothrawaki"
 
 msgid "Other removable devices"
-msgstr "Andere Wechsellaufwerke"
+msgstr "Druhe měnjate nastroje"
 
 msgid "Other peripherals"
-msgstr "Andere Peripheriegeräte"
+msgstr "Druhe periferijowe nastroje"
 
 msgid "Other devices"
-msgstr "Andere Geräte"
+msgstr "Druhe nastroje"
 
 msgid "Click to capture mouse"
-msgstr "Klicken zum Einfangen des Mauszeigers"
+msgstr "Klikń, zo złójić myšku"
 
 msgid "Press %1 to release mouse"
-msgstr "Drücke %1 zur Mausfreigabe"
+msgstr "Stłóč %1, zo pušćić myšku"
 
 msgid "Press %1 or middle button to release mouse"
-msgstr "Drücke %1 oder die mittlere Maustaste zur Mausfreigabe"
+msgstr "Stłóč %1 abo srjedźnu tastu myški, zo pušćić myšku"
 
 msgid "Bus"
 msgstr "Bus"
 
 msgid "File"
-msgstr "Datei"
+msgstr "Dataja"
 
 msgid "Geometry"
-msgstr "Geometrie"
+msgstr "Geometrija"
 
 msgid "KB"
 msgstr "KB"
 
 msgid "Default"
-msgstr "Standard"
+msgstr "Standardny"
 
 msgid "%n wait state(s)"
 msgid_plural "%n wait states"
-msgstr[0] "%n Wartezuständ"
-msgstr[1] "%n Wartezustände"
+msgstr[0] "%n čakanski staw"
+msgstr[1] "%n čakanskej stawaj"
+msgstr[2] "%n čakanske stawy"
+msgstr[3] "%n čakanskich stawow"
 
 msgid "Type"
 msgstr "Typ"
 
 msgid "No PCap devices found. Make sure %1 is installed and that you are on a %1-compatible network connection."
-msgstr "Keine PCap-Geräte gefunden. Make sure %1 is installed and that you are on a %1-compatible network connection."
+msgstr "Njenamakane žane PCap-nastroje. Přepruwuj, zo %1 je zainstalowany a je wužiwane syćowe wjazanje z %1."
 
 msgid "Invalid PCap device. Make sure %1 is installed and that you are on a %1-compatible network connection."
-msgstr "Ungültiges PCap-Gerät. Überprüfe, dass %1 installiert ist, und eine %1-kompatible Netzwerkverbindung genutzt wird."
+msgstr "Njepłaćiwy PCap-nastroj. Přepruwuj, zo %1 je zainstalowany a je wužiwane syćowe wjazanje z %1."
 
 msgid "Generic paddle controller(s)"
-msgstr "Generischer Paddel-Controller(s)"
+msgstr "Generiski padlowy kontroler"
 
 msgid "2-axis, 1-button joystick(s)"
-msgstr "2-Achsen-, 1-Tasten-Joystick(s)"
+msgstr "Joystick z 2 wóskomaj, 1 tastu"
 
 msgid "2-axis, 2-button joystick(s)"
-msgstr "2-Achsen-, 2-Tasten-Joystick(s)"
+msgstr "Joystick z 2 wóskomaj, 2 tastomaj"
 
 msgid "2-axis, 3-button joystick"
-msgstr "2-Achsen-, 3-Tasten-Joystick"
+msgstr "Joystick z 2 wóskomaj, 3 tastami"
 
 msgid "2-axis, 4-button joystick"
-msgstr "2-Achsen-, 4-Tasten-Joystick"
+msgstr "Joystick z 2 wóskomaj, 4 tastami"
 
 msgid "2-axis, 6-button joystick"
-msgstr "2-Achsen-, 6-Tasten-Joystick"
+msgstr "Joystick z 2 wóskomaj, 6 tastami"
 
 msgid "2-axis, 8-button joystick"
-msgstr "2-Achsen-, 8-Tasten-Joystick"
+msgstr "Joystick z 2 wóskomaj, 8 tastami"
 
 msgid "3-axis, 2-button joystick"
-msgstr "3-Achsen-, 2-Tasten-Joystick"
+msgstr "Joystick z 3 wóskami, 2 tastomaj"
 
 msgid "3-axis, 3-button joystick"
-msgstr "3-Achsen-, 3-Tasten-Joystick"
+msgstr "Joystick z 3 wóskami, 3 tastami"
 
 msgid "3-axis, 4-button joystick"
-msgstr "3-Achsen-, 4-Tasten-Joystick"
+msgstr "Joystick z 3 wóskami, 4 tastami"
 
 msgid "4-axis, 2-button joystick"
-msgstr "4-Achsen-, 2-Tasten-Joystick"
+msgstr "Joystick z 4 wóskami, 2 tastomaj"
 
 msgid "4-axis, 3-button joystick"
-msgstr "4-Achsen-, 3-Tasten-Joystick"
+msgstr "Joystick z 4 wóskami, 3 tastami"
 
 msgid "4-axis, 4-button joystick"
-msgstr "4-Achsen-, 4-Tasten-Joystick"
+msgstr "Joystick z 4 wóskami, 4 tastami"
 
 msgid "2-button gamepad(s)"
-msgstr "2-Tasten-Gamepad(s)"
+msgstr "Gamepad z 2 tastomaj"
 
 msgid "3-button gamepad"
-msgstr "3-Tasten-Gamepad"
+msgstr "Gamepad z 3 tastami"
 
 msgid "4-button gamepad"
-msgstr "4-Tasten-Gamepad"
+msgstr "Gamepad z 4 tastami"
 
 msgid "6-button gamepad"
-msgstr "6-Tasten-Gamepad"
+msgstr "Gamepad z 6 tastami"
 
 msgid "2-button flight yoke"
-msgstr "2-Tasten-Steuerhorn"
+msgstr "Lětadłowe wodźidło z 2 tastomaj"
 
 msgid "3-button flight yoke"
-msgstr "3-Tasten-Steuerhorn"
+msgstr "Lětadłowe wodźidło z 3 tastami"
 
 msgid "4-button flight yoke"
-msgstr "4-Tasten-Steuerhorn"
+msgstr "Lětadłowe wodźidło z 4 tastami"
 
 msgid "2-button flight yoke with throttle"
-msgstr "2-Tasten-Steuerhorn mit Schubregler"
+msgstr "Lětadłowe wodźidło z 2 tastomaj a ručicu"
 
 msgid "3-button flight yoke with throttle"
-msgstr "3-Tasten-Steuerhorn mit Schubregler"
+msgstr "Lětadłowe wodźidło z 3 tastami a ručicu"
 
 msgid "4-button flight yoke with throttle"
-msgstr "4-Tasten-Steuerhorn mit Schubregler"
+msgstr "Lětadłowe wodźidło z 4 tastami a ručicu"
 
 msgid "Steering wheel (3-axis, 2-button)"
-msgstr "Lenkrad (3-Achsen, 2-Tasten)"
+msgstr "Wodźidło z 3 wóskami, 2 tastomaj"
 
 msgid "Steering wheel (3-axis, 3-button)"
-msgstr "Lenkrad (3-Achsen, 3-Tasten)"
+msgstr "Wodźidło z 3 wóskami, 3 tastami"
 
 msgid "Steering wheel (3-axis, 4-button)"
-msgstr "Lenkrad (3-Achsen, 4-Tasten)"
+msgstr "Wodźidło z 3 wóskami, 4 tastami"
 
 msgid "Thrustmaster Formula T1/T2 with adapter"
-msgstr "Thrustmaster Formula T1/T2 mit Adapter"
+msgstr "Thrustmaster Formula T1/T2 z adapterom"
 
 msgid "Thrustmaster Formula T1/T2 without adapter"
-msgstr "Thrustmaster Formula T1/T2 ohne Adapter"
+msgstr "Thrustmaster Formula T1/T2 bjez adaptera"
 
 msgid "None"
 msgstr "Ohne"
