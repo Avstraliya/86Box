@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-27 21:27+0200\n"
+"PO-Revision-Date: 2026-06-28 12:56+0200\n"
 "Last-Translator: Wojćech Grala <wojciechgrala84@gmail.com>\n"
 "Language-Team: Upper Sorbian <https://weblate.86box.net/projects/86box/86box/hsb/>\n"
 "Language: hsb-DE\n"
@@ -38,10 +38,10 @@ msgid "Pause"
 msgstr "Přestawka"
 
 msgid "Re&sume"
-msgstr "&Pokročować"
+msgstr "P&okroč"
 
 msgid "E&xit"
-msgstr "S&kónčić"
+msgstr "Z&ačiń"
 
 msgid "&View"
 msgstr "Na&pohlad"
@@ -1029,34 +1029,34 @@ msgid "Thrustmaster Formula T1/T2 without adapter"
 msgstr "Thrustmaster Formula T1/T2 bjez adaptera"
 
 msgid "None"
-msgstr "Ohne"
+msgstr "Žadyn"
 
 msgid "%1 MB (CHS: %2, %3, %4)"
 msgstr "%1 MB (CHS: %2, %3, %4)"
 
 msgid "Floppy %1 (%2): %3"
-msgstr "Diskette %1 (%2): %3"
+msgstr "Disketa %1 (%2): %3"
 
 msgid "&Floppy %1 (%2): %3"
-msgstr "&Diskette %1 (%2): %3"
+msgstr "&Disketa %1 (%2): %3"
 
 msgid "Advanced sector images"
-msgstr "Fortgeschrittene Sektorabbilder"
+msgstr "Pokročene sektorowe wobrazy"
 
 msgid "Flux images"
-msgstr "Fluxabbilder"
+msgstr "Flux-wobrazy"
 
 msgid "Are you sure you want to hard reset the emulated machine?"
-msgstr "Sind Sie sich sicher, dass Sie einen Kaltstart für das emulierte System durchführen wollen?"
+msgstr "Sy wěsty, zo chceš zymno startować emulirowany system?"
 
 msgid "Are you sure you want to exit 86Box?"
-msgstr "Sind Sie sich sicher, dass Sie 86Box beenden wollen?"
+msgstr "Sy wěsty, zo chceš začinić 86Boxa?"
 
 msgid "Unable to initialize Ghostscript. %1 is required for automatic conversion of PostScript files to PDF.\n\nAny documents sent to the generic PostScript printer will be saved as PostScript (.ps) files."
-msgstr "Ghostscript konnte nicht initialisiert werden. %1 wird zur automatischen Konvertierung von PostScript-Dateien ins PDF-Format benötigt.\n\nSämtliche an den generischen PostScript-Drucker gesendete Dateien werden als PostScript (*.ps) Dateien gesichert."
+msgstr "Ghostscript njemóže być inicializowany. %1 je trjebany k awtomatiskemu změnjenju PostScript-datajow do formata PDF.\n\Wsě dataje pósłane k generiskemu PostScript-ćišćerjej budu składowane jako PostScript-dataje (*.ps)."
 
 msgid "Unable to initialize GhostPCL. %1 is required for automatic conversion of PCL files to PDF.\n\nAny documents sent to the generic PCL printer will be saved as Printer Command Language (.pcl) files."
-msgstr "GhostPCL konnte nicht initialisiert werden. %1 wird zur automatischen Konvertierung von PCL-Dateien ins PDF-Format benötigt.\n\nSämtliche an den generischen PCL-Drucker gesendete Dateien werden als Printer Command Language (*.pcl) Dateien gesichert."
+msgstr "GhostPCL njemóže być inicializowany. %1 je trjebany k awtomatiskemu změnjenju PCL-datajow do formata PDF.\n\nWsě dataje pósłane k generiskemu PCL-ćišćerjej budu składowane jako Printer Command Language-dataje (*.pcl)."
 
 msgid "MO %1 (%2): %3"
 msgstr "MO %1 (%2): %3"
@@ -1065,10 +1065,10 @@ msgid "&MO %1 (%2): %3"
 msgstr "&MO %1 (%2): %3"
 
 msgid "MO images"
-msgstr "MO-Abbilder"
+msgstr "MO-wobrazy"
 
 msgid "Welcome to 86Box!"
-msgstr "Willkommen bei 86Box!"
+msgstr "Witaj do 86Box!"
 
 msgid "Internal device"
 msgstr "Internes Gerät"
